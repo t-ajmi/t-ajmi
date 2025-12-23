@@ -4,7 +4,7 @@
 <h2>👨‍💻⚡ Data Analysis Projects:</h2>
 
 - <b> Usin R studio </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
 
 
 <h2> 🤳 Connect with me:</h2>
