@@ -1,12 +1,12 @@
 <h1>Hi, I'm Tawheed Alajmi! <br/></h1>
 <h2>Data Analyst <br/></h2>
-
-<h2>👨‍💻⚡ Data Analysis Projects:</h2>
+<br/><br/>
+<h3>👨‍💻⚡ Data Analysis Projects:</h3>
 
 - <b> Usin R studio </b>
   - [Praciting DS & Algos in Python](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
 
-
+<hr/>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Tawheed Alajmi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
