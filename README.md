@@ -4,7 +4,7 @@
 <h3>👨‍💻⚡ Data Analysis Projects:</h3>
 
 - <b> Usin R studio </b>
-  - [Praciting DS & Algos in Python](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
+  - [Analysis veterans lung cancer using survival analysis](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
 
 <hr/> 
 <h3>👨‍💻⚡ skills:</h3>
