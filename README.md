@@ -1,19 +1,20 @@
 <h1>Hi, I'm Tawheed Alajmi! <br/></h1>
 <h2>Data Analyst <br/></h2>
 <hr/> 
-<h3>👨‍💻⚡ Data Analysis Projects:</h3>
+<h3>⚡ Data Analysis Projects:</h3>
 
 - <b> Usin R studio </b>
   - [Analysis veterans lung cancer using survival analysis](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
 
 <hr/> 
-<h3>👨‍💻⚡ skills:</h3>
+<h3>⚡ skills:</h3>
 
 - <b> Usin Different Statistical Analysis Software</b>
   - [Python]
   - [R studio]
   - [SPSS]
   - [Microsoft excel]
+  - [Power BI]
  <br/>
  
 - <b> Creating and Designing sites</b>
