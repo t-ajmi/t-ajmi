@@ -4,7 +4,7 @@
 <h3>⚡ Data Analysis Projects:</h3>
 
 - <b> Usin R studio </b>
-  - [Analysis veterans lung cancer using survival analysis](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
+  - [Analysis of Turtle mortality](https://github.com/t-ajmi/Analysis-veterans-lung-cancer-using-survival-analysis)
 
 <hr/> 
 <h3>⚡ skills:</h3>
